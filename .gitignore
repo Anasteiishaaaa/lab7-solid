@@ -1,0 +1,18 @@
+# Java / Maven / IDE
+target/
+.idea/
+*.iml
+.vscode/
+*.class
+medical_report_*.json
+
+# C# / .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+
+# OS
+.DS_Store
+Thumbs.db
