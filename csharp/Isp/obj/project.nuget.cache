@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8sYL1k3CTM=",
+  "success": true,
+  "projectFilePath": "/Users/alisaartemenko/Downloads/lab7-solid/csharp/Isp/Isp.csproj",
+  "expectedPackageFiles": [
+    "/Users/alisaartemenko/.nuget/packages/microsoft.netcore.app.ref/8.0.31/microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "/Users/alisaartemenko/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.31/microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
